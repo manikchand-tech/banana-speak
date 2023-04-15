@@ -1,0 +1,23 @@
+section.input,.output#outputtxt{
+
+    text-align: center;
+}
+#outputtxt{
+
+width: 500px;
+height: 250px;
+border: 0.5rem solid ;
+margin-top: 2rem;
+border-bottom-right-radius: 1rem;
+border-color: darkkhaki;
+
+}
+
+#inputtxt{
+padding: 1rem;
+
+border:2px dashed;
+border-color: rgb(99, 99, 17);
+
+
+}
